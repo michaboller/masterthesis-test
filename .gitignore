@@ -6,3 +6,6 @@
 *.out
 *.pdf
 *.toc
+*.lot
+*.run.xml
+*.synctex.gz
