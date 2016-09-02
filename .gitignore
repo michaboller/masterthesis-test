@@ -1,0 +1,8 @@
+# Ingorieren von generierten Latex Dateien
+*.aux
+*.dvi
+*.log
+*.lof
+*.out
+*.pdf
+*.toc
